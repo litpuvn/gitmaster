@@ -4,3 +4,5 @@ cool feature is added
 cool feature fix bug added
 abc-feature added this line
 hot fix in develop and quick commit
+develop change again
+merge master to develop and develop change immediately
