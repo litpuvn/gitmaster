@@ -10,3 +10,4 @@ retest develop change
 rebase test 
 master->mydevelop. Now change develop then merge to mydevelop
 new change in develop
+good change
