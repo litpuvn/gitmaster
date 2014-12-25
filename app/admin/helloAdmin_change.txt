@@ -7,3 +7,4 @@ hot fix in develop and quick commit
 develop change again
 merge master to develop and develop change immediately
 retest develop change
+rebase test 
